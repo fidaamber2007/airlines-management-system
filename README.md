@@ -1,7 +1,7 @@
 # Airlines Management System
 
 ## Project Overview
-The Airlines Management System is a database-driven application developed using Python and Oracle SQL. It manages airline operations through a graphical user interface connected to an Oracle database.
+The Airlines Management System is a database-driven application developed using Python and Oracle SQL. It manages airline operations through a graphical user interface connected to an Oracle database. Used to manage airline operations and passenger information in one place.
 
 ## Technologies Used
 - Python
